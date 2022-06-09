@@ -14,8 +14,14 @@ Compile and execute the application:
 cd desktop
 ./run.sh <path-to-javafx-sdk> # Comment the line with javac to avoid compiling
 ```
-## Desktop (.exe executable)
+## Desktop (executables)
+### Windows
 Visit [the latest release](https://github.com/OrangoMango/TicTacToe/releases/lates) and run the `.exe` file on your windows computer
+### Linux
+Visit [the latest release](https://github.com/OrangoMango/TicTacToe/releases/lates) and run the `.deb` file according to your architecture with the command:
+```bash
+sudo dpkg -i <file-name>
+```
 ## Mobile (Android)
 Download [this](https://github.com/OrangoMango/TicTacToe/raw/main/mobile/tictactoe.apk) apk file and install it on your android device.
 # How to play
