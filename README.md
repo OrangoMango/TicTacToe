@@ -20,6 +20,6 @@ Visit [the latest release](https://github.com/OrangoMango/TicTacToe/releases/lat
 Download [this](https://github.com/OrangoMango/TicTacToe/raw/main/mobile/tictactoe.apk) apk file and install it on your android device.
 # How to play
 There are 3 options available:
-1. Single player: You agains the AI in 3 different difficulties (Easy, Medium, Unbeatable)
-2. Local multiplayer: You agains your friend on the same device
-3. Lan multiplayer: You agains your friend over the same network
+1. Single player: You against the AI in 3 different difficulties (Easy, Medium, Unbeatable)
+2. Local multiplayer: You against your friend on the same device
+3. Lan multiplayer: You against your friend over the same network
