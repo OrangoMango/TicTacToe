@@ -23,7 +23,7 @@ Visit [the latest release](https://github.com/OrangoMango/TicTacToe/releases/lat
 ```bash
 sudo dpkg -i <file-name>
 ```
-## Mobile (Android)
+### Mobile (Android)
 Download [this](https://github.com/OrangoMango/TicTacToe/raw/main/mobile/tictactoe.apk) apk file and install it on your android device.
 # How to play
 There are 3 options available:
