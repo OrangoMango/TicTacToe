@@ -15,7 +15,7 @@ cd desktop
 ./run.sh <path-to-javafx-sdk> # Comment the line with javac to avoid compiling
 ```
 ## Desktop (.exe executable)
-
+Visit [the latest release](https://github.com/OrangoMango/TicTacToe/releases/lates) and run the `.exe` file on your windows computer
 ## Mobile (Android)
 Download [this](https://github.com/OrangoMango/TicTacToe/raw/main/mobile/tictactoe.apk) apk file and install it on your android device.
 # How to play
