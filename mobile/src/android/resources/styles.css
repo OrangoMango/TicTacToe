@@ -1,0 +1,20 @@
+.root {
+    -fx-background-color: aquamarine;
+}
+
+.button {
+    -fx-background-color: yellow;
+}
+
+.button:hover {
+    -fx-opacity: 0.8;
+}
+
+.text-field, .combo-box {
+    -fx-border-style: solid;
+    -fx-background-color: rgb(212, 252, 235);
+}
+
+.label {
+    -fx-font-size: 13;
+}
