@@ -17,9 +17,9 @@ cd desktop
 ```
 ## Desktop (executables)
 ### Windows
-Visit [the latest release](https://github.com/OrangoMango/TicTacToe/releases/lates) and run the `.exe` file on your windows computer
+Visit [the latest release](https://github.com/OrangoMango/TicTacToe/releases/latest) and run the `.exe` file on your windows computer
 ### Linux
-Visit [the latest release](https://github.com/OrangoMango/TicTacToe/releases/lates) and run the `.deb` file with the command:
+Visit [the latest release](https://github.com/OrangoMango/TicTacToe/releases/latest) and run the `.deb` file with the command:
 ```bash
 sudo dpkg -i <file-name>
 ```
